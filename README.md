@@ -1,5 +1,9 @@
 d# JavaScript Challenge: Password Generator
 
+## ScreenShot
+
+[Password Generator.webm](https://github.com/SirModV/modVision-uofm-mod3/assets/103627016/386c1bf5-3129-470b-a101-b2675605c8c0)
+
 This is a simple password generator application built with JavaScript. It allows an employee to generate a random password that meets certain criteria, providing greater security for sensitive data.
 
 The application runs in the browser and features a clean and polished user interface that adapts to multiple screen sizes.
@@ -37,5 +41,4 @@ If you want to customize the character sets used for generating passwords, you c
 Please note that modifying the character sets may impact the strength and randomness of the generated passwords.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it according to your needs.
