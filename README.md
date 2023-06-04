@@ -1,8 +1,8 @@
-d# JavaScript Challenge: Password Generator
+# JavaScript Challenge: Password Generator
 
 ## ScreenShot
 
-[Password Generator.webm](https://github.com/SirModV/modVision-uofm-mod3/assets/103627016/386c1bf5-3129-470b-a101-b2675605c8c0)
+<img width="1680" alt="Screenshot 2023-06-03 at 10 06 10 PM" src="https://github.com/SirModV/modVision-uofm-mod3/assets/103627016/326e8c90-774d-459e-bdea-187ed86d7900">
 
 This is a simple password generator application built with JavaScript. It allows an employee to generate a random password that meets certain criteria, providing greater security for sensitive data.
 
